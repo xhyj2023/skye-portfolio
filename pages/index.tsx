@@ -1,3 +1,8 @@
 export default function Home() {
-  return <h1 className="text-3xl font-bold text-center mt-20">Hello, this is your portfolio home page!</h1>;
+  return (
+    <div>
+      <h1>Welcome to My Portfolio</h1>
+      <p>This is the home page of my personal website built with Next.js.</p>
+    </div>
+  )
 }

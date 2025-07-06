@@ -1,1 +1,8 @@
-商店页代码内容略...
+export default function Store() {
+  return (
+    <div>
+      <h1>Store</h1>
+      <p>Coming soon.</p>
+    </div>
+  )
+}
